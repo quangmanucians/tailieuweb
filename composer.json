@@ -1,0 +1,11 @@
+{
+    "name": "kynm/hello-world",
+    "description": "the first composer package",
+    "authors": [
+        {
+            "name": "quangmanucians",
+            "email": "68055977+quangmanucians@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
